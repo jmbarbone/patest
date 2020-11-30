@@ -1,0 +1,21 @@
+Package: patest
+Type: Package
+Title: Data sets for Pennsyvlania School Systems
+Version: 0.1.0
+Authors@R:
+    person(given   = "Jordan Mark",
+           family  = "Barbone",
+           role    = c("aut", "cph", "cre"),
+           email   = "jmbarbone@gmail.com",
+           comment = c(ORCID = "0000-0001-9788-3628"))
+Maintainer: Jordan Mark Barbone <jmbarbone@gmail.comt>
+Description: Contains data publicly available through Pennsylvania's government
+    websites.
+License: MIT + file LICENSE
+URL: https://github.com/jmbarbone/patest
+BugReports: https://github.com/jmbarbone/patest/issues
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.1
